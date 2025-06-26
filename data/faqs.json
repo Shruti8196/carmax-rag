@@ -1,0 +1,100 @@
+[
+    {
+        "topic": "Skye",
+        "question": "How do I start chatting with Skye?",
+        "answer": "To get started with Skye, go to www.carmax.com and open the chat icon in the lower right area of the page.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+    },
+    {
+        "topic": "Skye",
+        "question": "What is Skye?",
+        "answer": "Skye is an AI-powered shopping and customer support experience designed to help CarMax customers with their car buying and selling journey.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+    },
+    {
+        "topic": "Skye",
+        "question": "Can I still use the search bar if I don't want to talk to Skye?",
+        "answer": "Yes. The search bar still works without interacting with Skye.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+    },
+    {
+        "topic": "Skye",
+        "question": "How can I give feedback about Skye?",
+        "answer": "You can provide feedback about Skye by clicking the thumbs up or thumbs down icons next to individual messages. You may also be prompted to leave feedback after a session. For more in-depth feedback, email skyefeedback@carmax.com.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+    },
+    {
+        "topic": "Warranties and More",
+        "question": "What is the difference between the CarMax limited warranty and the optional MaxCare® extended service plan?",
+        "answer": "Every car we sell automatically comes with a CarMax limited warranty, even if it's still covered under the manufacturer's warranty. This includes coverage of major systems plus hundreds of parts inside and out, including labor, for 90 days or 4,000 miles (whichever comes first). MaxCare extended service plans are optional plans you can purchase to cover your car's major systems and parts for additional miles, with flexible monthly budgets. Learn more about [CarMax limited warranty and extended service plans](https://www.carmax.com/car-buying-process/maxcare-service-plans).",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+    },
+    {
+        "topic": "Warranties and More",
+        "question": "Do all CarMax cars come with the CarMax limited warranty?",
+        "answer": "Yes. All CarMax Certified cars come with a 90-day/4,000-mile limited warranty covering all parts and labor for covered systems at no cost to you. Systems covered include Frame and Body, Engine, Transmission, Differential, Cooling, Electrical, Fuel, Steering, Suspension, Restraint, Brake, Exhaust Systems, Gauges, HVAC, Tires, and Wheels. Some exclusions apply; please ask your store for details.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+    },
+    {
+        "topic": "Warranties and More",
+        "question": "Why should I consider an optional MaxCare extended service plan?",
+        "answer": "MaxCare covers unexpected repairs with flexible plan options and deductibles as low as $50. It includes emergency roadside assistance, rental reimbursement, and coverage anywhere in the US or Canada. Covered repairs done at a CarMax service center or RepairPal Certified shop reduce your deductible by $50 (state limitations may apply). Learn more about [what's covered and pricing options](https://www.carmax.com/car-buying-process/maxcare-service-plans).",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+    },
+    {
+        "topic": "Warranties and More",
+        "question": "What isn't covered by MaxCare?",
+        "answer": "MaxCare offers named exclusion coverage, meaning there is a specific list of non-covered components and causes such as corrosion and abuse. If an item is not on the exclusion list, it is covered. Learn more about what's covered and pricing [here](https://www.carmax.com/car-buying-process/maxcare-service-plans).",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+    },
+    {
+        "topic": "Warranties and More",
+        "question": "Can I take my vehicle anywhere to be repaired?",
+        "answer": "Yes. You can take your vehicle to any licensed service facility in the US or Canada that offers a 6-month/6,000-mile warranty on parts and labor. Covered repairs done at CarMax service centers or RepairPal Certified shops reduce your deductible by $50 (state limitations apply). Learn more about [service locations in your area](https://www.carmax.com/service).",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+    },
+    {
+        "topic": "Warranties and More",
+        "question": "Am I required to purchase MaxCare?",
+        "answer": "No. MaxCare is an entirely optional extended service plan, but many customers choose it for peace of mind during long-term ownership.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+    },
+    {
+        "topic": "Warranties and More",
+        "question": "Can MaxCare be included in my monthly payment?",
+        "answer": "Yes, MaxCare can be included in your monthly payment or purchased upfront using a credit card, cash, or check.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+    },
+    {
+        "topic": "Warranties and More",
+        "question": "Can I purchase MaxCare after I buy a car?",
+        "answer": "No. MaxCare is only available at the time you purchase your car from CarMax.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+    },
+    {
+        "topic": "Warranties and More",
+        "question": "What is CarMax's return policy?",
+        "answer": "CarMax offers a 10-day Money Back Guarantee. You can return the car within 10 days to the store where you purchased it, provided the vehicle's condition is consistent with purchase. Refunds are typically mailed within 2 weeks. Note that any shipping fees paid are nonrefundable.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+    },
+    {
+        "topic": "Warranties and More",
+        "question": "What’s included in my SiriusXM trial?",
+        "answer": "CarMax customers receive a free 3-month SiriusXM trial offering ad-free music, sports, news, talk, comedy, and podcasts. No credit card is required and the trial auto-expires after 3 months. After the trial, you'll get an introductory subscription offer. Learn more about [CarMax’s SiriusXM trial offer](https://www.siriusxm.com/trial-offer/carmax).",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+    }
+]

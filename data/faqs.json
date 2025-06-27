@@ -30,7 +30,7 @@
     {
         "topic": "Warranties and More",
         "question": "What is the difference between the CarMax limited warranty and the optional MaxCare® extended service plan?",
-        "answer": "Every car we sell automatically comes with a CarMax limited warranty, even if it's still covered under the manufacturer's warranty. This includes coverage of major systems plus hundreds of parts inside and out, including labor, for 90 days or 4,000 miles (whichever comes first). MaxCare extended service plans are optional plans you can purchase to cover your car's major systems and parts for additional miles, with flexible monthly budgets. Learn more about [CarMax limited warranty and extended service plans](https://www.carmax.com/car-buying-process/maxcare-service-plans).",
+        "answer": "Every car we sell automatically comes with a CarMax limited warranty, even if it's still covered under the manufacturer's warranty. This includes coverage of major systems plus hundreds of parts inside and out, including labor, for 90 days or 4,000 miles (whichever comes first). MaxCare extended service plans are optional plans you can purchase to cover your car's major systems and parts for additional miles, with flexible monthly budgets. Learn more about CarMax limited warranty and extended service plans at https://www.carmax.com/car-buying-process/maxcare-service-plans",
         "source": "carmax_faq",
         "created_at": "2025-06-26"
     },
@@ -44,21 +44,21 @@
     {
         "topic": "Warranties and More",
         "question": "Why should I consider an optional MaxCare extended service plan?",
-        "answer": "MaxCare covers unexpected repairs with flexible plan options and deductibles as low as $50. It includes emergency roadside assistance, rental reimbursement, and coverage anywhere in the US or Canada. Covered repairs done at a CarMax service center or RepairPal Certified shop reduce your deductible by $50 (state limitations may apply). Learn more about [what's covered and pricing options](https://www.carmax.com/car-buying-process/maxcare-service-plans).",
+        "answer": "MaxCare covers unexpected repairs with flexible plan options and deductibles as low as $50. It includes emergency roadside assistance, rental reimbursement, and coverage anywhere in the US or Canada. Covered repairs done at a CarMax service center or RepairPal Certified shop reduce your deductible by $50 (state limitations may apply). Learn more about what's covered and pricing options at https://www.carmax.com/car-buying-process/maxcare-service-plans",
         "source": "carmax_faq",
         "created_at": "2025-06-26"
     },
     {
         "topic": "Warranties and More",
         "question": "What isn't covered by MaxCare?",
-        "answer": "MaxCare offers named exclusion coverage, meaning there is a specific list of non-covered components and causes such as corrosion and abuse. If an item is not on the exclusion list, it is covered. Learn more about what's covered and pricing [here](https://www.carmax.com/car-buying-process/maxcare-service-plans).",
+        "answer": "MaxCare offers named exclusion coverage, meaning there is a specific list of non-covered components and causes such as corrosion and abuse. If an item is not on the exclusion list, it is covered. Learn more about what's covered and pricing at https://www.carmax.com/car-buying-process/maxcare-service-plans",
         "source": "carmax_faq",
         "created_at": "2025-06-26"
     },
     {
         "topic": "Warranties and More",
         "question": "Can I take my vehicle anywhere to be repaired?",
-        "answer": "Yes. You can take your vehicle to any licensed service facility in the US or Canada that offers a 6-month/6,000-mile warranty on parts and labor. Covered repairs done at CarMax service centers or RepairPal Certified shops reduce your deductible by $50 (state limitations apply). Learn more about [service locations in your area](https://www.carmax.com/service).",
+        "answer": "Yes. You can take your vehicle to any licensed service facility in the US or Canada that offers a 6-month/6,000-mile warranty on parts and labor. Covered repairs done at CarMax service centers or RepairPal Certified shops reduce your deductible by $50 (state limitations apply). Learn more about service locations in your area at https://www.carmax.com/service",
         "source": "carmax_faq",
         "created_at": "2025-06-26"
     },
@@ -93,8 +93,723 @@
     {
         "topic": "Warranties and More",
         "question": "What’s included in my SiriusXM trial?",
-        "answer": "CarMax customers receive a free 3-month SiriusXM trial offering ad-free music, sports, news, talk, comedy, and podcasts. No credit card is required and the trial auto-expires after 3 months. After the trial, you'll get an introductory subscription offer. Learn more about [CarMax’s SiriusXM trial offer](https://www.siriusxm.com/trial-offer/carmax).",
+        "answer": "CarMax customers receive a free 3-month SiriusXM trial offering ad-free music, sports, news, talk, comedy, and podcasts. No credit card is required and the trial auto-expires after 3 months. After the trial, you'll get an introductory subscription offer. Learn more about CarMax’s SiriusXM trial offer at https://www.siriusxm.com/trial-offer/carmax",
         "source": "carmax_faq",
         "created_at": "2025-06-26"
-    }
+    },
+    {
+        "topic": "Security",
+        "question": "What is two-step authentication?",
+        "answer": "Two-step authentication is a secure way to access your account. As an added layer of protection, when you sign in (step 1), we’ll send you a 6-digit security code via a phone call, text, or authenticator app (step 2). You’ll enter both your password and the security code you receive to get into your account.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Security",
+        "question": "I sold or lost my phone and cannot complete two-step authentication anymore. What should I do?",
+        "answer": "You can reset two-step authentication by following the self-service reset process at https://www.carmax.com/myaccount/customer/site/reset. You'll need to log in with your password, verify your email account, and may be prompted to confirm additional information.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Security",
+        "question": "My phone number is correct, but I'm not receiving the two-step authentication SMS texts. What can I do?",
+        "answer": "Text 'START' to 27843 to ensure you're not unsubscribed by your carrier. On iPhone, check if 27843 is blocked in Settings > Phone > Blocked Contacts. On Android, go to the Phone app > Settings > Blocked numbers and unblock 27843.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Security",
+        "question": "My phone number is correct, but I'm not receiving the two-step authentication phone calls. What can I do?",
+        "answer": "Ensure (877) 563-4104 is not blocked. On iPhone, go to Settings > Phone > Blocked Contacts and unblock the number. On Android, go to the Phone app > Settings > Blocked numbers and unblock it.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Security",
+        "question": "Two-step authentication isn't working for me. How can I troubleshoot this?",
+        "answer": "Ensure your smartphone number is listed in the 'Secure and manage your account' section of your MyCarMax profile. For login issues, call 800-925-3612. For other two-step authentication issues, call 800-519-1511.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Security",
+        "question": "What is an authenticator app?",
+        "answer": "An authenticator app generates secure, two-step authentication codes for your account. Popular options include Google Authenticator, Microsoft Authenticator, Authy, LastPass, and Duo Mobile.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Security",
+        "question": "How do I set up an authenticator app for two-step authentication?",
+        "answer": "Install an authenticator app on your smartphone. Follow the setup steps on MyCarMax to scan a QR code or enter a key linking your app to your account.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Security",
+        "question": "Why is my authenticator code not working?",
+        "answer": "Make sure you're entering the correct code. Authenticator codes expire every 30 seconds. Check time sync issues, make sure you selected the correct account, and refer to your app/device support if needed.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Security",
+        "question": "Why do I need two-step authentication to get into my account?",
+        "answer": "Two-step authentication protects you if your login credentials are compromised. It is an industry standard for financial institutions to verify identity using both a password and a security code.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Security",
+        "question": "How do I update my two-step authentication?",
+        "answer": "Log in to your MyCarMax account, go to Profile Settings, and click Update under 'Secure and manage my account'. Then follow the steps for updating two-step authentication.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Security",
+        "question": "I'm getting a new phone. Will my authenticator app keep working?",
+        "answer": "If your old phone is available, log in and re-setup the authenticator on your new device. If you don’t have the old phone, reset two-step authentication via the self-service process by logging in and verifying your email.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Security",
+        "question": "Can I turn off two-step authentication?",
+        "answer": "For your security, certain actions like accessing financial or sensitive account information require two-step authentication and cannot be disabled.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Security",
+        "question": "Why am I periodically asked to reauthenticate?",
+        "answer": "We occasionally ask you to complete two-step verification again to confirm your identity. This is standard practice for financial institutions to help prevent identity fraud.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Making Payments",
+        "question": "If I finance with CarMax, what are my options for making payments?",
+        "answer": "To manage your account and make payments online, start by setting up a MyCarMax account. You can also download and use the CarMax app. Once you have a MyCarMax login, you'll need your CarMax Auto Finance account number, found in your welcome email or letter. Access may be restricted based on your account status. Monthly payments can also be mailed to CarMax Auto Finance, P.O. Box 6045, Carol Stream, IL 60197-6045. For principal-only payments or help, call (800) 925-3612.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Making Payments",
+        "question": "Where should I send my final payoff by U.S. Mail or express delivery?",
+        "answer": "For U.S. Mail: CarMax Auto Finance, Attn: Payoff Department, P.O. Box 440609, Kennesaw, GA 30160. For express delivery: CarMax Auto Finance, Attn: Payoff Department, 225 Chastain Meadows Court, Suite 210, Kennesaw, GA 30144.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Making Payments",
+        "question": "How can I pay via Western Union?",
+        "answer": "Go to any Western Union location and use 'CarMax' for the country code and 'Georgia' for the state code. Include your account number. Call (800) 238-5772 to find a location. Payments are typically posted within one business day.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Making Payments",
+        "question": "How can I pay via MoneyGram?",
+        "answer": "Visit any MoneyGram agent location. Provide Receive Code '4645', company name 'CarMax', city 'Kennesaw', state 'GA', and your account number. Call 1-800-MoneyGram to find a location. Payments post within one business day.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Making Payments",
+        "question": "When is my first payment due?",
+        "answer": "You can choose a first payment date up to 45 days after your contract date. A welcome email or letter will include your CarMax Auto Finance account and monthly payment details.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Making Payments",
+        "question": "Where can I find my CarMax Auto Finance account number?",
+        "answer": "You can find your account number in your welcome email or letter. You can also call Customer Service at (800) 925-3612 for assistance.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Making Payments",
+        "question": "How do I request benefits under the Servicemembers Civil Relief Act (SCRA)?",
+        "answer": "You can call (800) 925-3612 x4077, email CAF_SCRA@carmax.com, fax your military orders to (770) 423-4376, or mail them to CarMax Auto Finance, Attn: Customer Service, P.O. Box 440609, Kennesaw, GA 30160. Provide your name, phone number, and last 4 digits of your CarMax Auto Finance account number.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Making Payments",
+        "question": "Where can I access my CarMax Auto Finance account?",
+        "answer": "You can access your CarMax Auto Finance account through your MyCarMax dashboard. Visit the Auto Finance FAQ page for info about registering, making payments, viewing statements, updating titles, and submitting insurance claims.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Selling a Car",
+        "question": "Can I sell my car to CarMax without buying a car from CarMax?",
+        "answer": "Yes, and our offer will be the same whether you're buying from us or not.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Selling a Car",
+        "question": "Will CarMax buy any car?",
+        "answer": "We're interested in buying pretty much any car. Whether it ultimately goes on our lot or to a wholesale auction, we want to make an offer.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Selling a Car",
+        "question": "Is the online offer a real offer or an estimate?",
+        "answer": "We provide real offers online and in-store, valid for 7 days. Offers are verified when you bring your car in and may be adjusted if your car's condition, use, or history differs from what was provided.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Selling a Car",
+        "question": "Can I negotiate my online offer with CarMax?",
+        "answer": "No, all CarMax offers are firm and valid for 7 days.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Selling a Car",
+        "question": "Can I get both an online and in-store appraisal?",
+        "answer": "If you have an online offer, you don't need an in-store appraisal. If your offer expires, you can get a new one online. The criteria are the same in both cases.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Selling a Car",
+        "question": "Do I have to get my offer online?",
+        "answer": "No, you're always welcome to bring your car to a CarMax store for an in-store appraisal without getting an online offer.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Selling a Car",
+        "question": "What do I do after I get an online offer from CarMax?",
+        "answer": "Bring your car to CarMax within 7 days to redeem your offer. We'll verify the car’s condition, finalize the offer, and pay you with a bank draft, which must be deposited.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Selling a Car",
+        "question": "Will CarMax pick up my vehicle from my home?",
+        "answer": "CarMax offers pickup service in select markets. You can also visit any CarMax store to redeem your offer.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Selling a Car",
+        "question": "Do I need an appointment to sell my car to CarMax?",
+        "answer": "No appointment is needed, but scheduling one can save you time.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Selling a Car",
+        "question": "Do I have to sell my car at the same CarMax location that gave me an offer?",
+        "answer": "No, you can sell your car at any CarMax store within 7 days. After that, a re-appraisal is needed.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Selling a Car",
+        "question": "How does CarMax determine my offer?",
+        "answer": "We evaluate the year, make, model, mileage, condition, and history of your car, along with market trends. Test drives may be used to check mechanical condition.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Selling a Car",
+        "question": "What do I need to sell my car to CarMax?",
+        "answer": "You'll need your title or payoff info, valid registration, state-issued photo ID for all titleholders, and all keys/remotes. Bring these to finalize a sale.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Selling a Car",
+        "question": "How do I get paid for my car?",
+        "answer": "You'll receive a bank draft the same day, which must be deposited (not cashed). Check with your bank for availability of funds.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Selling a Car",
+        "question": "Do I need to tell the DMV that I sold my car to CarMax?",
+        "answer": "DMV requirements vary by state. CarMax doesn’t report the sale for you, so check with your state’s DMV for next steps.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Selling a Car",
+        "question": "What if I owe more on my car than the offer?",
+        "answer": "If you have negative equity, you may be able to finance it if buying a car. Otherwise, pay the difference. We accept various forms of payment, including personal checks if under $250.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Selling a Car",
+        "question": "Does CarMax buy leased cars?",
+        "answer": "Yes, but not from all leasing companies. Restrictions apply, and lease payoffs must be verified during business hours. Check with your lease provider for trade-in rules.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Selling a Car",
+        "question": "Does CarMax buy cars from businesses?",
+        "answer": "Yes. Business sales require authorization from an officer or president of the company. Additional state-specific requirements may apply.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Selling a Car",
+        "question": "How can my company sell our fleet vehicles at CarMax?",
+        "answer": "For fleet vehicle sales, call 855-7CARMAX (855-722-7629) or email carmaxfleetsales@carmax.com for more information.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Financing",
+        "question": "Does CarMax offer financing?",
+        "answer": "Yes. We offer financing through several finance sources, including CarMax Auto Finance, a division of CarMax. Most financing decisions are available in 5 minutes or less.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Financing",
+        "question": "This is my first time buying a car. Can I finance with CarMax?",
+        "answer": "Our finance sources accommodate most credit profiles, and every CarMax customer enjoys the same upfront pricing and exceptional customer service, both in-store and online. Get started with tips for financing your first car at https://www.carmax.com/articles/first-time-car-buyer",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Financing",
+        "question": "How does pre-qualification work?",
+        "answer": "You can pre-qualify for a specific vehicle or dollar amount with no impact to your credit score. Fill out a request with personal, income, and housing info. Financing decisions usually return within 5 minutes. Use your pre-qualification to shop CarMax's inventory with personalized terms. Learn more at https://www.carmax.com/car-financing",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Financing",
+        "question": "What's the benefit of getting pre-qualified?",
+        "answer": "Pre-qualification helps you see personalized terms, like monthly payment and APR, without affecting your credit score. It lets you find the right car within your budget.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Financing",
+        "question": "I don't have the best credit score. Can I finance with CarMax?",
+        "answer": "Our finance sources accommodate most credit profiles. Every CarMax customer enjoys upfront pricing and exceptional customer service, in-store and online.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Financing",
+        "question": "What can I do to make sure I get the best terms I can?",
+        "answer": "Finance sources review factors like payment history. Adding a down payment and financing within your budget helps. Also, make sure your credit reports aren't locked or frozen so the review can complete.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Financing",
+        "question": "Can I use a co-buyer?",
+        "answer": "Yes, you can add a co-buyer on your pre-qualification or finance application, which may help you get better terms. The co-buyer's info and credit history will also be reviewed.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Financing",
+        "question": "I am financing somewhere other than CarMax. What do I need to provide CarMax?",
+        "answer": "You'll need to provide a voucher, check, or proof of financing. We'll assist you with the process.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Financing",
+        "question": "How do CarMax's annual percentage rates (APRs) compare to competitors?",
+        "answer": "CarMax offers competitive APRs across a wide range of credit profiles through various finance sources. If you find a better APR within 3 business days of purchase, you can replace your financing at no cost.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Financing",
+        "question": "Can I replace my financing with another lender if I find better terms after I buy the car?",
+        "answer": "Yes, if you find a better APR within 3 business days, you can replace your financing at no cost to you.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Financing",
+        "question": "I have a CarMax Auto Finance account. Where can I find more information?",
+        "answer": "Visit the CarMax Auto Finance FAQ page at https://www.carmax.com/car-financing/carmax-auto-finance/carmax-auto-finance-faq for details about account updates, payments, titles, statements, insurance claims, and credit bureaus.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Seeing a Car",
+        "question": "Do I have to buy a car if I reserve it, have it shipped from another store, or test drive it?",
+        "answer": "No. You're never obligated to buy a car just because you reserve it, have it shipped, or test drive it. However, if you have a car shipped, there might be a nonrefundable shipping fee.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Seeing a Car",
+        "question": "How can I reserve a car at CarMax so no one else buys it?",
+        "answer": "To reserve a car at CarMax, go to the car's detail page and select one of the reservation options available for that car. You can reserve 1 car at a time, up to 7 days in advance of an appointment and/or test drive, unless otherwise noted. If you ship a car, it will be reserved for you while it's in transit.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Seeing a Car",
+        "question": "How many cars can I reserve at CarMax?",
+        "answer": "You can reserve 1 car at a time up to 7 days in advance of an appointment and/or test drive, unless otherwise noted. To do this, go to the car's detail page and select one of the reservation options available for that car. If you ship a car, it will be reserved for you while it's in transit.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Seeing a Car",
+        "question": "Can I reserve a car that's listed as Coming Soon?",
+        "answer": "Cars listed as Coming Soon can't be reserved, shipped, or test driven, but we can notify you when the car becomes available. Go to the car's detail page to sign up for email notifications about availability.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Seeing a Car",
+        "question": "When will a Coming Soon car become available?",
+        "answer": "Availability depends on state-specific title requirements, so an exact time frame can't be provided — but we can notify you when a car is available to purchase. Go to the car's detail page to sign up for email notifications about availability.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Seeing a Car",
+        "question": "How do I get a 24-hour test drive at CarMax?",
+        "answer": "When shopping at a CarMax store, let us know that you'd like to take a car for a 24-hour test drive. You'll be asked to provide a valid driver's license, verifiable comprehensive and collision insurance coverage, and to return the car to the same store on the next business day. Not all cars qualify due to price and model restrictions. You're limited to two 24-hour test drives within a 30-day period, with a 150-mile limit. The car's condition must remain consistent. 24-hour test drives aren't available when buying online for express pickup or delivery. Other restrictions may apply.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Seeing a Car",
+        "question": "What type of insurance do I need for a 24-hour test drive?",
+        "answer": "You must provide a valid driver's license and show both comprehensive and collision insurance coverage. You can show your online coverage at the store or call your insurance company from the store for phone verification. If your coverage doesn't include both, you can still take a test drive at the store.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Seeing a Car",
+        "question": "How can I see a car in person that isn't in my area?",
+        "answer": "We can ship almost any car in our inventory to your preferred CarMax store. A nonrefundable shipping fee may apply, but you'll be informed ahead of time. Some cars may not be eligible for shipping.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Seeing a Car",
+        "question": "What do shipping fees cover?",
+        "answer": "Shipping fees cover the cost of transporting the car. They are nonrefundable, separate from the cost of the car, and payment is required before shipping. Accepted payment methods include cash (in-store only), credit, debit, or check.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Seeing a Car",
+        "question": "I want a car from another location and there's a shipping fee. When is payment due?",
+        "answer": "Shipping fee payment is collected as part of your shipping order, whether completed online or with an associate. Accepted payment methods include cash (in-store only), credit, debit, or check. Shipping fees are nonrefundable and separate from the car cost.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Seeing a Car",
+        "question": "How long does store-to-store shipping take?",
+        "answer": "Check the car's detail page for an estimated timeline. Once shipped, we'll provide an estimated ready-to-drive date and tracking link.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Seeing a Car",
+        "question": "Why are some cars unable to be shipped?",
+        "answer": "Some states require us to have the title before shipping. Other restrictions may include mileage or emissions requirements. Non-transferable cars can be viewed and purchased where located but may not be registered outside that state. Contact us for help confirming eligibility.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Seeing a Car",
+        "question": "How do I schedule a test drive?",
+        "answer": "You can make an appointment online or by phone to test drive a car unless otherwise noted. To schedule online, go to the car's detail page and follow the prompts for reserving the car.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Seeing a Car",
+        "question": "Where can I test drive?",
+        "answer": "You can test drive cars at any CarMax store.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Seeing a Car",
+        "question": "I have a test drive scheduled. Will a store associate ride with me?",
+        "answer": "It's your choice to have a solo test drive or ride along with a store associate. Just let us know at your appointment.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Seeing a Car",
+        "question": "I have a test drive scheduled at CarMax. What do I need to bring?",
+        "answer": "Bring your driver's license and proof of liability insurance. Proof can be an insurance card, binder, online coverage, or phone verification with your insurance company. For 24-hour test drives, comprehensive and collision coverage is required. Learn more at https://www.carmax.com/faq/seeing-a-car/how-do-i-get-a-24-hour-test-drive-at-carmax",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Buying a Car",
+        "question": "Are CarMax prices negotiable?",
+        "answer": "Our upfront prices are set and our associates are paid the same regardless of a car's price, so our goal is to find the right car for you.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Buying a Car",
+        "question": "Can I buy a car online from CarMax?",
+        "answer": "Yes, you can buy online and get it delivered or pick it up at CarMax. To buy online, choose a car and request delivery or express pickup from the car's detail page. You'll be asked to create or sign into your MyCarMax account. After confirming your request, we'll guide you through financing, trade-in offers, uploading documents, and scheduling delivery or pickup. All cars are CarMax Certified and come with a 10-day money-back guarantee and a 90-day/4,000-mile limited warranty. Delivery is available within a 60-mile radius of select stores.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Buying a Car",
+        "question": "Is buying online the only way to buy a car at CarMax?",
+        "answer": "No, you can buy online or at a CarMax store. You can complete much of the process from home, including financing and trade-in offers, no matter how you choose to buy.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Buying a Car",
+        "question": "How do I get my car if I buy online?",
+        "answer": "You can schedule an appointment to pick up your car at a CarMax store near you or have it delivered. Delivery is available within 60 miles of select stores.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Buying a Car",
+        "question": "Is there a fee for buying online?",
+        "answer": "No, there is no fee for buying online whether you choose delivery or express pickup. If a shipping fee applies to the car, it will be displayed on the car's detail page and is separate from the car price.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Buying a Car",
+        "question": "What is the difference between shipping and delivery?",
+        "answer": "Shipping moves cars from one CarMax location to another, may have a nonrefundable fee, and is paid before shipping. Delivery brings the car to your home or work after purchase, free within 60 miles of select stores.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Buying a Car",
+        "question": "If I buy a car online that needs to be shipped and I choose delivery, why does it have to go to a CarMax store first?",
+        "answer": "Once the car arrives at your local CarMax store, we do a quality check and process state-specific requirements before delivering it to you.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Buying a Car",
+        "question": "How do I pay for my purchase?",
+        "answer": "You can finance with CarMax, your own bank or credit union, or pay cash. Credit cards cannot be used to purchase a car or for down payments.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Buying a Car",
+        "question": "Can I buy a car at CarMax with a credit card?",
+        "answer": "No, credit cards cannot be used to purchase a car. Online buyers pay via a secure bank account payment portal. In stores, we accept cash, debit cards, or personal checks with correct name and address.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Buying a Car",
+        "question": "When is my down payment due?",
+        "answer": "The down payment is due at purchase time. Online payments are made via a secure bank account payment portal.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Buying a Car",
+        "question": "What kind of documentation do I need to buy a car at CarMax?",
+        "answer": "Documentation varies by payment method but may include a valid driver's license, proof of insurance, proof of income, proof of residence, address verification, and verified contact information. Additional documents may be required before your appointment.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Buying a Car",
+        "question": "Do I need insurance to buy a car?",
+        "answer": "Yes. Proof of insurance is required, either existing coverage or a VIN-specific binder (temporary insurance coverage).",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Buying a Car",
+        "question": "What lienholder address do I give to my insurance provider?",
+        "answer": "If financing with CarMax Auto Finance, use P.O. Box 440609, Kennesaw, GA 30160. If financing elsewhere, an associate can help you find the correct address.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Buying a Car",
+        "question": "What happens at my express pickup appointment?",
+        "answer": "Park in designated express pickup spots and come inside. We'll confirm purchase details, complete documents, answer questions, allow a test drive, and help with trade-in items if applicable. Then you're set to go!",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Buying a Car",
+        "question": "What happens at my delivery appointment?",
+        "answer": "We bring the car to you, complete final documents, answer questions, take care of your trade-in if you have one, and leave you to enjoy your car. Delivery is available within 60 miles of select stores.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Buying a Car",
+        "question": "Do I get a test drive when I buy online?",
+        "answer": "Yes, you can test drive the vehicle at CarMax. The test drive will be part of your express pickup appointment if you choose.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Buying a Car",
+        "question": "Do all CarMax cars come with the CarMax limited warranty?",
+        "answer": "Yes. All cars are CarMax Certified and come with a 90-day/4,000-mile limited warranty that covers parts and labor for covered systems at zero cost to you. Some exclusions apply.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Buying a Car",
+        "question": "Do I really get 10 days to return the car?",
+        "answer": "Yes. You can return the car within 10 days as long as its condition is consistent with purchase. Refunds are typically mailed within 2 weeks. Negative equity from trade-ins must be repaid or financed with a different vehicle. Shipping fees are nonrefundable.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Buying a Car",
+        "question": "What happens if I return a car within the 10-day period?",
+        "answer": "Bring the car back to the purchase store. We'll verify its condition and complete the return. Refunds typically mailed within 2 weeks. Negative equity repayment or refinancing applies. Shipping fees are separate and nonrefundable.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Buying a Car",
+        "question": "How can my company do a fleet purchase with CarMax?",
+        "answer": "For fleet purchases, call 855-7CARMAX (855-722-7629) or email carmaxfleetsales@carmax.com.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Finding a Car",
+        "question": "How does CarMax work?",
+        "answer": "At CarMax, our upfront prices are the same whether you want to buy online or at your nearest CarMax store. You can prepare from home by getting pre-qualified for financing or getting an offer for your car online. You decide how you want to buy a car — online, in store, or a little of both. Learn more on the Why CarMax page at https://www.carmax.com/why-carmax",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Finding a Car",
+        "question": "Does CarMax own their cars, or are they owned by other individuals and dealers?",
+        "answer": "CarMax owns every car we sell, and unless otherwise noted, all the cars on our website are physically located at one of our CarMax stores.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Finding a Car",
+        "question": "How does CarMax choose the cars that you sell?",
+        "answer": "We check every car's history to rule out flood damage, frame damage, outstanding liens, or salvage history. Cars not meeting these standards are sold at auction, not to you. Cars pass a 125+ point inspection and detailed reconditioning before sale. Some cars have unrepaired safety recalls; see https://www.carmax.com/faq/safety-recalls",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Finding a Car",
+        "question": "What does it mean that all CarMax cars are CarMax Certified?",
+        "answer": "Every car we sell is CarMax Certified, meaning no flood or frame damage and no salvage history.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Finding a Car",
+        "question": "Does CarMax ever sell cars “as-is”?",
+        "answer": "None of the cars we sell are sold \"as-is.\" All cars come with a 90-day/4,000-mile limited warranty covering major systems and many parts with labor included. They pass a 125+ point inspection and are reconditioned as needed. Some cars have unrepaired safety recalls; see https://www.carmax.com/faq/safety-recalls",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Finding a Car",
+        "question": "What tools does CarMax have to help me find the right car for me and my budget?",
+        "answer": "CarMax offers tools such as a car payment calculator (https://www.carmax.com/car-financing/car-payment-calculator), online pre-qualification without impacting your credit score (https://www.carmax.com/financing/prequal), and online trade-in offers (https://www.carmax.com/sell-my-car). Creating a MyCarMax account lets you save favorite cars, search criteria, set alerts, and compare models (https://www.carmax.com/research/car-comparison).",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Finding a Car",
+        "question": "How can I find out when cars I like are added to CarMax inventory?",
+        "answer": "Create a saved search with filters on the shopping page to get email alerts when matching cars are added. You'll need a MyCarMax account to save searches and adjust alert frequency.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Finding a Car",
+        "question": "Can I save my favorite cars to a list I can view later?",
+        "answer": "Yes, use the heart button by a car photo to add it to your favorites. A MyCarMax account is required to review favorites, compare pricing and features, and get availability updates.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Finding a Car",
+        "question": "If I find a car I like online, can I see it in person before I make a decision?",
+        "answer": "Yes, you can reserve the car for a test drive up to 7 days in advance. Many cars can be shipped to your local CarMax store for an in-person test drive before purchase. Shipping may have a nonrefundable fee.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Finding a Car",
+        "question": "Do I need to make an appointment to browse cars at the store?",
+        "answer": "No, appointments are not required but can save you time. If you find a car on the lot, we’ll be ready to help you with questions or test drives faster if you have an appointment. Visit carmax.com/stores to find your local store and make an appointment.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Safety Recalls",
+        "question": "What is a safety recall?",
+        "answer": "A safety recall occurs when a manufacturer or the National Highway Traffic Safety Administration (NHTSA) finds that a condition or defect that could affect the safety or operation of a vehicle may exist in a specific vehicle or series of vehicles. The manufacturer notifies authorized dealers, repair facilities, and registered vehicle owners so that they can have the vehicle diagnosed and repaired. For more about the U.S. vehicle safety recall process, visit https://www.nhtsa.gov/recalls.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Safety Recalls",
+        "question": "What is NHTSA?",
+        "answer": "The National Highway Traffic Safety Administration (NHTSA) is an agency within the United States Department of Transportation that carries out vehicle safety programs, establishes and enforces safety performance standards, and investigates vehicle safety defects.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Safety Recalls",
+        "question": "How can I check for unrepaired safety recalls when I'm shopping for a car at CarMax?",
+        "answer": "Go to the car's detail page and use the \"Check for Unrepaired Safety Recalls\" link, which directs you to the NHTSA website with your car's VIN pre-populated for automatic results. You can also visit https://www.nhtsa.gov/recalls directly. CarMax also provides free AutoCheck® reports online and in store, which may include recall information. Before purchase, CarMax reviews these reports with you. You can scan the QR code on the window sticker at the store to view recall info online. Note that NHTSA and AutoCheck are independent and CarMax does not guarantee their completeness or accuracy.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Safety Recalls",
+        "question": "What do I do if there's an unrepaired safety recall on my car? How can I get that fixed?",
+        "answer": "Some cars may have unrepaired safety recalls because recall repairs must be done by manufacturer-authorized repair facilities. CarMax is not authorized to complete recall repairs or close out recalls. Before buying, CarMax reviews recall reports with you. Customers are urged to have any unrepaired safety recalls fixed by the manufacturer after purchase.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Safety Recalls",
+        "question": "How do I find out if a car I bought at CarMax has an unrepaired safety recall?",
+        "answer": "Manufacturers send recall notices based on state vehicle registration data. To ensure you receive notices, keep your registration information current. CarMax recommends registering your car with the manufacturer after purchase by providing your address, purchase date, VIN, and vehicle details. This helps you receive recall notifications directly from the manufacturer. Most manufacturers also have VIN-specific recall lookup tools. Additionally, you can subscribe for email safety recall notifications for up to five vehicles at https://www-odi.nhtsa.dot.gov/subscriptions/index.cfm. You can always use the NHTSA VIN-specific Recall Look-Up at https://www.nhtsa.gov/recalls.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      },
+      {
+        "topic": "Safety Recalls",
+        "question": "What do I do if a car I own has an unrepaired safety recall?",
+        "answer": "Vehicle manufacturers are required to fix unrepaired safety recalls at no cost to you. If your car has an unrepaired recall, contact a manufacturer-authorized repair facility as soon as possible to have it repaired.",
+        "source": "carmax_faq",
+        "created_at": "2025-06-26"
+      }
+
 ]

@@ -8,6 +8,6 @@
 
 **4. Context Construction:** Retrieved FAQ answers are combined and appended to the original user query to form a rich context.
 
-**5. Answer Generation:** A language model (e.g., GPT-4 or Claude) generates a final response grounded in the retrieved context.
+**5. Answer Generation:** A language model (e.g., GPT-4.o-mini) generates a final response grounded in the retrieved context.
 
 ![image](https://github.com/user-attachments/assets/8d3f4d8f-3309-4f75-ae14-6c89e4fdc6b3)

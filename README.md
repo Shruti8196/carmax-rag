@@ -1,3 +1,5 @@
+# RAG Pipeline
+
 1. User Query Input
    A customer submits a question via the chatbot interface (e.g., "Can I return my car if I change my mind?").
 
